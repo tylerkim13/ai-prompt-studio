@@ -1,0 +1,14 @@
+bin/tendermint
+bin/basecli
+node_modules/
+.nyc_output
+.idea
+coverage
+*.lcov
+test/
+docs/
+src/
+.travis.yml
+example
+tsconfig.json
+.all-contributorsrc
